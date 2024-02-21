@@ -4,3 +4,8 @@ Libraries
 - npm i uuid
 - npm i cookie-parser
 - npm i cors
+- npm i dotenv
+- npm i mongoose (for mongodb)
+- npm i mongoose-sequence
+- npm i express-async-handler
+- npm i bcrypt
