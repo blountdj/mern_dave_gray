@@ -9,3 +9,7 @@ Libraries
 - npm i mongoose-sequence
 - npm i express-async-handler
 - npm i bcrypt
+- npm i react-router-dom
+- npm i @fortawesome/fontawesome-svg-core
+- npm i @fortawesome/free-solid-svg-icons
+- npm i @fortawesome/react-fontawesome
